@@ -1,16 +1,19 @@
 ### Problems for preparing technical interviews are updated here. 
 
-Problems related to:
+### Problems related to:
 
-Algorithms
+### Algorithms
 
-Data Structures
+### Data Structures
 
-Data Science
+### Data Science
 
-Databases
+### Databases
 
 
-## Problems under Algorithms category
 
-### 1. Commit Guidelines:
+## 1. Commit Guidelines:
+
+### i) Please follow guidelines for commit
+
+### ii) Follow the Folder structure and commit inside category Folders

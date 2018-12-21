@@ -1,14 +1,14 @@
-### Problems for preparing technical interviews are updated here. 
+## Problems for preparing technical interviews are updated here. 
 
 ### Problems related to:
 
-### Algorithms
+  ### Algorithms
 
-### Data Structures
+  ### Data Structures
 
-### Data Science
+  ### Data Science
 
-### Databases
+  ### Databases
 
 
 

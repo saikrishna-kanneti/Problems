@@ -1,6 +1,6 @@
-Problems under Algorithms category
+## Problems under Algorithms category
 
-1. Commit Guidelines:
+### 1. Commit Guidelines:
 
 ### i. Uploading an Image
 
